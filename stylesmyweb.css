@@ -6,7 +6,7 @@
 }
 
 body {
-    background-image: url('C:/Users/SOOQ ELASER/OneDrive/Documents/web.jpeg.jpg'); /* Replace with your actual image URL */
+    background-image: url('https://scontent.fnbo18-1.fna.fbcdn.net/v/t39.30808-6/457361812_428647006854246_9141977061428738739_n.jpg?stp=dst-jpg_p526x296&_nc_cat=105&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeH6v228EAIxis2MElxh5eSbayMTx6qgHyRrIxPHqqAfJKYPnVLziWOOcotAXA9v5993xxydiXdau4i5MiI-xFFG&_nc_ohc=pMOfp-qUD8oQ7kNvgEXtXXC&_nc_zt=23&_nc_ht=scontent.fnbo18-1.fna&_nc_gid=A9z0mKSg-W60sDGHa0eFVnc&oh=00_AYAHS6Rx7f1f8f0PnojVKCIBvvhkEty1mojSj8D-Urvrsg&oe=671811BF'); /* Replace with your actual image URL */
     background-size: cover;  /* Make the image cover the entire background */
     background-position: center;  /* Center the background image */
     background-attachment: fixed;  /* Keep the background image fixed when scrolling */
